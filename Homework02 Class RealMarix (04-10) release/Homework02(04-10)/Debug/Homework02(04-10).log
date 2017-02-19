@@ -1,0 +1,4 @@
+﻿  Homework02 class RealMatrix(04-10).cpp
+k:\c++\homework02 class realmarix (04-10)\homework02(04-10)\homework02 class realmatrix(04-10).cpp(292): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LINK : K:\C++\Homework02 Class RealMarix (04-10)\Debug\Homework02(04-10).exe not found or not built by the last incremental link; performing full link
+  Homework02(04-10).vcxproj -> K:\C++\Homework02 Class RealMarix (04-10)\Debug\Homework02(04-10).exe

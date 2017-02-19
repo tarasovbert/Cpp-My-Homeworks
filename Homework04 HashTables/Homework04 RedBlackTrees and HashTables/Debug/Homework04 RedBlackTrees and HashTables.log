@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Homework04 RedBlackTrees and HashTables.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Homework04 HashTables.cpp
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(171): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(172): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(176): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(383): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(384): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+d:\study\github\homework04 hashtables\homework04 redblacktrees and hashtables\homework04 hashtables.cpp(390): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Homework04 RedBlackTrees and HashTables.vcxproj -> D:\Study\GitHub\Homework04 HashTables\Debug\Homework04 HashTables.exe
